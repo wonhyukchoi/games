@@ -1,5 +1,3 @@
-
-
 # Jetbrains
 .idea/
 
@@ -8,7 +6,7 @@ cmake-build-debug/
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
-tic-tac-toe/C/CMakeLists_.txt
+tic-tac-toe/C/CMakeLists.txt
 C
 
 # Prerequisites
