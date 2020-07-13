@@ -1,3 +1,9 @@
+# Jetbrains
+.idea/
+
+# Cmake
+cmake-build-debug/
+
 # Prerequisites
 *.d
 
