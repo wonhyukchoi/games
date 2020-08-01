@@ -17,4 +17,5 @@ In order of (perceived) ascending difficulty:
 Languages I hope to add: `Lisp`, `Rust`.
 
 [Blog: languages I've learned](http://wonhyukchoi.com/blogs/4_hello_world/).
+
 [Blog: Simple games to learn languages(In preperation)](#)
