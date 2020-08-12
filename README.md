@@ -5,7 +5,7 @@ This will keep track of all languages I've learned.
 
 In order of (perceived) ascending difficulty:
 
-* Guess a number: `python`, `bash`
+* Guess a number: `python`
 * Hangman: `Haskell`, `C++`
 * Tic-tac-toe: `C`
 * Pong: 
