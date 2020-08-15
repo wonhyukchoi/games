@@ -12,10 +12,8 @@ In order of (perceived) ascending difficulty:
 * Flappy Box: `JavaScript`
 * Minesweeper: 
 * Tetris: `Haskell`
-* Snake: 
+* Snake: `C++` 
 
 Languages I hope to add: `Lisp`, `Rust`, `x86`
 
 [Blog: languages I've learned](http://wonhyukchoi.com/blogs/4_hello_world/).
-
-[Blog: Simple games to learn languages(In preperation)](#)
