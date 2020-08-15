@@ -14,7 +14,7 @@ In order of (perceived) ascending difficulty:
 * Tetris: `Haskell`
 * Snake: 
 
-Languages I hope to add: `Lisp`, `Rust`.
+Languages I hope to add: `Lisp`, `Rust`, `x86`
 
 [Blog: languages I've learned](http://wonhyukchoi.com/blogs/4_hello_world/).
 

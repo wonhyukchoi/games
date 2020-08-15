@@ -1,3 +1,6 @@
+# Local testing
+lt_*
+
 # Jetbrains
 .idea/
 
